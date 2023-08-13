@@ -12,3 +12,11 @@ Counting of Stacked sacks using Computer Vision
 * Edge detection: This algorithm identifies the edges in an image. The number of edges can be used to estimate the number of sacks in the image.
 * Object detection: This algorithm identifies objects in an image. The number of objects can be used to estimate the number of sacks in the image.
 * Image segmentation: This algorithm divides an image into different segments. The number of segments can be used to estimate the number of sacks in the image.
+
+## Requirements
+* Urllib
+* OpenCV
+* Tensorflow
+* Sci-kit Learn
+* Pandas
+* Numpy
